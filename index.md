@@ -10,10 +10,10 @@ Microphone: Used for the "Voice & Text" chat feature to convert your speech to t
 We do not collect, store, or share any personally identifiable information (PII) such as your name, email address, or phone number.
 1.3 Non-Personal Data
 We may collect non-personal data for app stability and improvement, including:
-Device information (Model, OS version)
-Crash logs
-App usage data
-Anonymized Data for AI Training: For the purpose of improving service quality and training AI models, we may store anonymized problem images and solution data. These data are processed to ensure they cannot identify any specific individual
+* Device information (Model, OS version)
+* Crash logs
+* App usage data
+* Anonymized Data for AI Training: For the purpose of improving service quality and training AI models, we may store anonymized problem images and solution data. These data are processed to ensure they cannot identify any specific individual
 2. Third-Party Services
 We use trusted third-party services to improve our App and generate revenue. These services may collect information used to identify your device.
 Google AdMob: We use Google AdMob to display advertisements. AdMob may use device identifiers (like Advertising ID) to serve personalized ads.
